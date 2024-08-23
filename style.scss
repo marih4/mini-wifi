@@ -1,0 +1,21 @@
+// seletor{
+// propriedade:valor;
+// } 
+
+//primeira coisa a fazer no arquivo de style é o reset
+//* seletor univeral
+//dentro do *{} so colocamos o reset
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+    background-color: blue
+}
+img{
+    width: 100px;
+    border-radius: 20px;
+}
+h1{color: rgb(91, 217, 217);}
